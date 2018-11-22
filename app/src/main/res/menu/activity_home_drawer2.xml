@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group >
+        <item
+            android:id="@+id/nav_profil"
+            android:title="Status dan Jadwal proses KPR" />
+
+        <item
+        android:id="@+id/nav_generatebarcode"
+        android:title="Tiket QR" />
+
+        <item
+        android:id="@+id/nav_video"
+        android:title="Video" />
+
+        <item
+        android:id="@+id/nav_imageslide"
+        android:title="Image Slide" />
+
+        <item
+        android:id="@+id/nav_quesioner"
+        android:title="Pengisian Quesioner" />
+
+        <item
+            android:id="@+id/nav_persyaratan"
+            android:title="Unggah Dokumen" />
+
+        <item
+        android:id="@+id/nav_notifikasi"
+        android:title="Inbox Notifikasi" />
+
+        <item
+        android:id="@+id/nav_viral"
+        android:title="Perangkat Viral" />
+
+        <item
+            android:id="@+id/nav_voucher"
+            android:title="Bonus Voucher" />
+
+    </group>
+
+
+</menu>
