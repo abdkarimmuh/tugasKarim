@@ -39,7 +39,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_information"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_action_name"
+                    android:src="@mipmap/ic_scan"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -125,7 +125,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_video"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -168,7 +168,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_action_name"
+                    android:src="@mipmap/ic_image"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -211,7 +211,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_content_paste"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -254,7 +254,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_action_name"
+                    android:src="@mipmap/ic_upload"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -297,7 +297,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_notification"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -341,7 +341,7 @@
                 android:layout_height="wrap_content">
 
                 <ImageView
-                    android:src="@drawable/ic_action_name"
+                    android:src="@mipmap/ic_message"
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -384,7 +384,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_voucher"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />

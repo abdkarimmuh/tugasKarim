@@ -43,7 +43,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_people"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -90,7 +90,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_person"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -137,7 +137,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_notification"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -185,7 +185,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_account_balance"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -232,7 +232,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_video"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -279,7 +279,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/ic_action_name"
+                        android:src="@mipmap/ic_image"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
